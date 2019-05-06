@@ -36,8 +36,7 @@ Arduino is a new area for me, it takes me a while to learn how the circuit work 
 
 ## Completed Work
 
-Video is in the attachments
-Code is in repository
+See repository
 
 ## References and links
 
