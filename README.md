@@ -1,6 +1,6 @@
 # DUDU CAR TOY
 
-One-sentence summary of your project goes here; then fill out each of the following sections.
+DUDU is a TV remote controlled pull toy. DUDU will move in four direction (forward, backward, left and right)
 
 ## Summary
 
@@ -10,9 +10,15 @@ Include a discussion of how it will be interactive or responsive to the environm
 
 ## Component Parts
 
-Describe the components, or pieces, that make up your project.
-
-Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
+Cardboard as the bas for the Arduino circuit.
+TV remote.
+IR reciver.
+H bridge(L293D.)
+Batteries
+Jump wire
+Arduino Uno
+Breadboard
+DC motor
 
 ## When your project is completed, you will then add the following sections:
 
@@ -21,8 +27,8 @@ Include what types of inputs/outputs/data it will use. You can also upload an im
 What did you do in each of the past four weeks?
 
 - Week 0: Write Proposal
-- Week 1:
-- Week 2:
+- Week 1: Defining what components will be needed for building DUDU.
+- Week 2: Putting every components together and 
 - Week 3:
 - Week 4: Present!
 
