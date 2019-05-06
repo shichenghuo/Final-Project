@@ -8,15 +8,15 @@ DUDU is built by Arduino. When the IR reciver gets the unique signal from one of
 
 ## Component Parts
 
-##Cardboard as the base for the Arduino circuit.
-##TV remote.
-IR reciver.
-H bridge(L293D.)
-Batteries
-Jump wire
-Arduino Uno
-Breadboard
-DC motor
+/Cardboard as the base for the Arduino circuit.
+/TV remote.
+/IR reciver.
+/H bridge(L293D.)
+/Batteries
+/Jump wire
+/Arduino Uno
+/Breadboard
+/DC motor
 
 ## When your project is completed, you will then add the following sections:
 
